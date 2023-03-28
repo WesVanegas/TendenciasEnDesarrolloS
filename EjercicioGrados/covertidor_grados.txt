@@ -1,0 +1,4 @@
+Grados celsius ingresados 6
+ El equivalente a grados fahrenheit es:42.8
+Grados fahrenheit ingresados 6
+ El equivalente a grados celsius es:-14.4
