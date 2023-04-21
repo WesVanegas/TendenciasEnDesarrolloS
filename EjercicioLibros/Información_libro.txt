@@ -1,0 +1,4 @@
+Nombre libro: Pokemon
+ID del libro: 2023040101
+Precio: 120565.0
+Envio gratis: True
